@@ -6,7 +6,7 @@
  Description: This class specifies the DohNat class.
  */
 
-import java.util.*;
+//import java.util.*;
 
 /**
  This is the DohNat base class for representing the torroidal planet
